@@ -1,8 +1,10 @@
 [![MasterHead](https://wallpapercave.com/wp/wp2758151.gif)](https://yassin-aru.netlify.app/)
 
 <p align="center">
-  <img src="https://wallpapercave.com/wp/wp2758151.gif" alt="Your Image Description" height="100">
+  <img src="https://wallpapercave.com/wp/wp2758151.gif" alt="Your Image Description" style="width: 100%; height: 30%; object-fit: cover;">
 </p>
+
+
 
 
 [![](https://visitcount.itsvg.in/api?id=Yassin-Aru&icon=0&color=0)](https://yassin-aru.netlify.app/)
