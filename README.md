@@ -1,4 +1,4 @@
-[![MasterHead](https://wallpapercave.com/wp/wp2758151.gif)](https://yassin-aru.netlify.app/)
+<img src="https://wallpapercave.com/wp/wp2758151.gif" alt="Yassin Aru" width="100%" />
 
 [![](https://visitcount.itsvg.in/api?id=Yassin-Aru&icon=0&color=0)](https://yassin-aru.netlify.app/)
 
