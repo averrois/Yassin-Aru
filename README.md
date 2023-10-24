@@ -1,4 +1,4 @@
-[![MasterHead](https://im.ezgif.com/tmp/ezgif-1-58602c5cb0.gif)](https://yassin-aru.netlify.app/)
+[![MasterHead](https://s3-alpha-sig.figma.com/hub/profile/958001291566491608/ab676bd2-29a8-45bf-8d22-c0bbedee0c45_cover?Expires=1699228800&Signature=hAjgIPlHTEcvPb3VNLW6EBBv1QqyQe5ELtHDslWGptTLMA2qGKmhmvTImKwE-x1hDzn4F8y3zzjpEApmUlKjGFCOMJXbEvWaxtmVvjVva7773ap3Vy6MKEPRBJ9pOCcmPrlVOvOZb6nc22OInDXT5CU5JzwuK6PvttJ~KyfiV9T3v8WaGAF-8-dHDfjQSDHMMk-XsynoAPfmi5oY1irajlNvCmsPVY-OpKPc6MOMKEGmvkMWuyvvSdAT7xjxs5u1if6lQkLlT4baXlls4eko5LSU81TpE03YzSvuBolEw9yBM4gKlr6Ckb-2AFUfjLnfsWadEDBFySNyw0PvOroYCA__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4)](https://yassin-aru.netlify.app/)
 
 
 [![](https://visitcount.itsvg.in/api?id=Yassin-Aru&icon=0&color=0)](https://yassin-aru.netlify.app/)
